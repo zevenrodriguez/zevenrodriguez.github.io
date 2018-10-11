@@ -1,0 +1,60 @@
+intro to web
+
+This is a lecture based course for non-majors that gives students a survey of a variety of digital communication technologies. In this class we cover topics that include: web design, image editing, animation, and a variety of multimedia tools. Principles of design, media, theory, and history are addressed in class discussion. The class focuses on coding HTML, CSS, and Responsive Web, as well as using software applications including Photoshop, Indesign, and Illustrator. In the class, students are given bi-weekly assignments based on the past weeks lesson.  This class is taught by several instructors and topics are constantly evolving.
+
+Mtec 1005 Tangible Media Skills Lab
+Fall 2014 - Spring 2015
+
+about the class
+
+The goal of this course is to let students experiment and create electronic circuits and 3D prints.
+The class is divided into two main topics: Electronics and 3D Printing.
+Each topic while have several modules.
+After each module students will have created a circuit, model, or 3D print.
+Students will be introduced how to create physical interfaces by learning how to program the Arduino micro controller.
+They will learn how to use sensors to translate physical interaction to output a sensory experience.
+Finally, they will design and print 3D models. Students will learn basic fabrication, modeling techniques, and processes used in 3D printing.
+Then they will learn how to create models using 123D Design and learn how to print them.
+
+https://openlab.citytech.cuny.edu/rodriguezmtec1005sp2015/
+
+Mtec 2250 Tangible Media Skills
+Spring 2015 - Present
+
+about the class
+In this course students will spend the semester designing and building a prototype.
+We will explore the design process from the ideation phase to prototype and creation.
+The class is broken up to 3 sections: 3D Design and Production, Electronics, and PCB design.
+In the 3D Design section, students will be introduced to fabrication and modeling using SketchUp and Illustrator.
+They will fabricate their designs using laser cutters and 3D Printers.
+In the next section, we will be using Arduino microcontroller to add interaction to our prototypes.
+Finally, we will transfer our circuits from our breadboard to a PCB. We will use the EagleCAM software to design our board, which we will then get printed.
+At the end of the semester students will have produce a full working prototype with an enclosure, functioning electronics, and assembled PCB board.
+
+Tangible Media Skills is a continuation of the Tangible Media Lab. I have designed this course to be a project development studio. The class I broken up into 3 Sections: Ideation, 3D Design and Production, and Electronics. The goal of the class to learn In the ideation phase, students their own idea and learn expand it. They learn how to present ideas and learn how to provide constructive feedback.  Students then apply their ideas and design 3D mock ups and parts for their ideas. Part of the class is to teach students how to make basic fabrication They learn how to model  Finally they bring them to life by designing circuits and interactions using microcontrollers.
+
+Mtec 2280 Ins/Outs of Physical Computing
+Fall 2015 - Present
+
+about the class
+The focus of this course is to explore how we interact between the digital and physical world.
+In this class you will be introduced to the Arduino microcontroller as well as screen based languages like python and max/msp.
+We will learn about how interaction design effects the products and installations, we engage with on a daily basis.
+By using different switches, sensors, and screen based interactions we will discover best practices in usability and interaction.
+Students will work on creative group projects and provide on-line documentation of their work.
+
+adv2450 WEB DESIGN 1
+
+A required course for all Advertising Design and Graphic Arts students.
+Topics include creative user interface design and best workflow practice.
+Students will design a website using an XHTML template, and will develop design, typography and web programming skills.
+(X)HTML and CSS will be taught.
+
+COMD 3551 Web II/HTML & CSS
+
+Advanced web design is a continuation of ADV2450 Web I, a prerequisite of this course.
+Students will study, in further detail, HTML and CSS to ensure that they have a solid foundation.
+It is assumed that students have a solid grasp of Photoshop and Illustrator, and understand the proper web design workflow.
+The course is focused on completing a web site, designing and building it, as well as writing all the content for the site.
+A portfolio site is not appropriate for the final project, and will not be acceptable.
+Search Engine Optimization, Analytics, and web marketing strategies will be reviewed, and implemented.

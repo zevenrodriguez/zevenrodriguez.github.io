@@ -1,0 +1,57 @@
+#video{
+	width:600px;
+	height:350px;
+	margin-left:10px;
+	background-color:black;
+	text-align:center;
+	
+}
+#verticle{
+	margin-top:20px;
+	
+}
+#verticle1{
+	width:460px;
+	height:832px;
+	margin-left:15px;
+	background-image:url("images/all.jpg");
+	background-repeat:no-repeat;
+	float:left;	
+	
+}
+
+#verticle2{
+	width:460px;
+	height:832px;
+	margin-left:10px;
+	background-image:url("images/stonefront.jpg");
+	background-repeat:no-repeat;
+	float:left;
+	background-color:black;
+	
+	
+}
+#horizontal{
+	margin-top:30px;
+	
+	
+}
+
+#horizontal1{
+	width:460px;
+	height:259px;
+	margin-left:15px;
+	background-image:url("images/touchandinterface.jpg");
+	background-repeat:no-repeat;
+	float:left;	
+	
+}
+#horizontal2{
+	width:460px;
+	height:259px;
+	margin-left:15px;
+	background-image:url("images/touchtop.jpg");
+	background-repeat:no-repeat;
+	float:left;
+	
+}

@@ -1,0 +1,66 @@
+
+.horizontalStripe{
+	margin-top:20px;
+	width:960px;
+	height:301px;
+	
+	
+}
+
+.horizontal{
+	width:460px;
+	height:300px;
+	margin-left:15px;
+	background-repeat:no-repeat;
+	float:left;	
+	
+}
+#interface1{
+	background-image:url("images/interface1.jpg");
+	margin-top:20px;
+	margin-left:60px;
+	
+	
+}
+
+#interface2{
+	background-image:url("images/interface2.jpg");
+	
+	
+}
+
+#interface3{
+	background-image:url("images/interface3.jpg");
+	
+	
+}
+
+#interface4{
+	background-image:url("images/interface4.jpg");
+	
+	
+}
+
+#interface5{
+	background-image:url("images/interface5.jpg");
+	
+	
+}
+
+#interface6{
+	background-image:url("images/interface6.jpg");
+	
+	
+}
+
+#interface7{
+	background-image:url("images/interface7.jpg");
+	
+	
+}
+
+#interface8{
+	background-image:url("images/interface8.jpg");
+	
+	
+}
