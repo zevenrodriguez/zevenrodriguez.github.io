@@ -7,6 +7,13 @@ $(document).ready( function() {
       isFitWidth: true
     });
 
+    $('.teachingGrid').masonry({
+      itemSelector: '.teaching-grid-item',
+      columnWidth: 350,
+      gutter: 50,
+      isFitWidth: true
+    });
+
 
     $( "#item1" )
     .mouseenter(function() {
